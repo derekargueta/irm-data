@@ -1,4 +1,4 @@
-time stamp,Domain tested,percent http2,percent http1.1,percent connection error: 
+time stamp,Domain tested,percent http2,percent http1.1,percent connection error, time elapsed: 
 2021-07-09 04:08:40,245,63.27%,97.96%,1.63%
 2021-07-09 04:09:21,245,63.67%,97.96%,1.63%
 2021-07-09 21:33:00,245,64.08%,97.96%,1.63%
