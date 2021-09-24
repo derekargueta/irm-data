@@ -1,4 +1,4 @@
-time stamp,Domain tested,percent http2,percent http1.1,percent connection error, time elapsed, tls1.0 enabled, tls1.1 enabled, tls1.2 enabled, tls1.3 enabled : 
+time stamp,Domain tested,percent http2,percent http1.1,percent connection error, time elapsed, tls1.0 enabled, tls1.1 enabled, tls1.2 enabled, tls1.3 enabled,cloudflare : 
 2021-07-09 04:08:40,245,63.27%,97.96%,1.63%,0,0,0,0,0
 2021-07-09 04:09:21,245,63.67%,97.96%,1.63%,0,0,0,0,0
 2021-07-09 21:33:00,245,64.08%,97.96%,1.63%,0,0,0,0,0
@@ -394,5 +394,3 @@ time stamp,Domain tested,percent http2,percent http1.1,percent connection error,
 2021-09-11 18:22:41,245,65.31%,98.78%,1.22%,235.56s,44.49%,47.76%,98.78%,54.69%
 2021-09-22 20:53:14,246,65.85%,98.78%,1.22%,108.89s,43.90%,47.97%,98.37%,55.28%,11.38%
 2021-09-22 21:17:53,246,65.45%,99.19%,0.81%,99.66s,43.50%,47.97%,97.97%,55.28%,7.32%
-2021-09-22 22:32:10,246,65.45%,99.19%,1.22%,81.94s,43.50%,47.97%,97.97%,55.69%,0.00%
-2021-09-22 22:33:54,246,65.45%,99.19%,1.22%,91.80s,43.50%,47.56%,98.37%,55.69%,0.00%
