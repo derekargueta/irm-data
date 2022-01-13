@@ -1,1 +1,2 @@
 time stamp,Domain tested,percent http2,percent http1.1,percent connection error,time elapsed,tls1.0 enabled,tls1.1 enabled,tls1.2 enabled,tls1.3 enabled,cloudflare,cloudflare ipv4,cloudflare ipv6,fastlyprobe,fastlyprobe ipv4,fastlyprobe ipv6,dualstack,total ipv4,total ipv6,dns_any enabled, Digicert Certificate Usage, Comodo Certificate Usage,Let's Encrypt Usage
+2022-01-13 16:27:20,705,79.29%,98.30%,14.61%,1.99%,296.75s,46.10%,49.93%,95.74%,61.99%,14.61%,4.54%,10.07%,7.09%,5.67%,1.42%,0.14%,25.67%,100.00%,25.67%,68.79%,25.67%,100.00%,25.67%,29.22%,0.43%,8.37%
